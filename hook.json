@@ -1,0 +1,39 @@
+{
+ "_about": "게임 연결: 이 게임을 분석해서 얻은 값 전부(훅 DLL·바이트 패턴·UE4SS 와 이 빌드에 필요한 것). tools/hooks.py 가 이것만 보고 게임 폴더에 파일을 통째로 쓴다(sonmat_paths.load_hook)",
+ "ue4ss": {
+  "mods": [
+   "DSHapticsUE4"
+  ],
+  "signatures": {
+   "_note": "UE4SS 자체 스캔이 이 빌드에서 못 찾는 함수(10-04 수동으로 찾음)",
+   "FText_Constructor": {
+    "aob": "48 89 5C 24 ?? 48 89 6C 24 ?? 56 57 41 54 41 56 41 57 48 83 EC ?? 45 33 E4 48 8B F1 48 8B 0D"
+   },
+   "StaticConstructObject": {
+    "aob": "48 89 ?? 24 30 89 ?? 24 38 E8 ?? ?? ?? ?? 48 ?? ?? 24 70 48 ?? ?? 24 78",
+    "rel32": 10
+   }
+  }
+ },
+ "native": {
+  "dll": "dshaptics_ue4.dll",
+  "sigs": {
+   "AddNewActiveSound": [
+    "40 55 53 56 41 56 48 8D AC 24 E8 F7 FF FF 48 81",
+    "+3be3ae0"
+   ],
+   "FNameToString": [
+    "48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B DA 48 8B F1 E8 81",
+    "+225dba0"
+   ],
+   "ActiveSoundDtor": [
+    "48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 54 41 56 41 57 48 83 EC 20 48 8D 05 B3 47 4A",
+    "+3b0e140"
+   ],
+   "EndFilter": "SE_CIN_",
+   "SoundOffset": "18",
+   "OwnerNameOffset": "44",
+   "LocationOffset": "230"
+  }
+ }
+}
