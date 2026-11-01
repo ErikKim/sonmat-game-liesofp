@@ -161,6 +161,7 @@
   },
 
   "rules": [
+    {"match": "^SE_PC_SK_Hit_Preview", "who": "any", "synth": true},
     {"match": "PerfectGuard|FableArts_Parry",         "wave": "pguard", "who": "any", "combat": true},
     {"match": "FinishHit|fatal|riposte|execution",    "wave": "fatal",  "who": "any", "combat": true},
     {"match": "^SE_PC_SK_GetHit_.*Guard",             "wave": "guard",  "who": "any", "combat": true},
