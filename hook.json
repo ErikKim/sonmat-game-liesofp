@@ -30,7 +30,7 @@
     "48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 54 41 56 41 57 48 83 EC 20 48 8D 05 B3 47 4A",
     "+3b0e140"
    ],
-   "EndFilter": "SE_CIN_",
+   "EndFilter": "SE_CIN_,Crane_Activation,StoneBridge,Wagon_Movement,SnowBall_Roll,Shark_Dead_Ice,Train_Slide,BossGate_SlidingDoor,DoubleDoor,Portcullis,Boss_Wood,Cathedral_Boss,Lever_Active,HeavySafe_Open",
    "SoundOffset": "18",
    "OwnerNameOffset": "44",
    "LocationOffset": "230"
