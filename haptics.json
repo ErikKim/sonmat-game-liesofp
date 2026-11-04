@@ -67,7 +67,7 @@
   "duck": 0.3,
 
   "source": {
-    "type": "ue_pak", "steam_dir": "Lies of P", "paks": "LiesofP/Content/Paks", "needs_key": true, "exe": "LiesofP/Binaries/Win64/LOP-Win64-Shipping.exe",
+    "type": "ue_pak", "auto_rules": "rules_auto.json", "steam_dir": "Lies of P", "paks": "LiesofP/Content/Paks", "needs_key": true, "exe": "LiesofP/Binaries/Win64/LOP-Win64-Shipping.exe",
     "game": "GAME_UE4_27", "content": "LiesofP/Content",
     "cue_dirs": ["SD/SoundCue/SoundEffect/PC", "SD/SoundCue/SoundEffect/UI", "SD/SoundCue/SoundEffect/Cinematic", "SD/SoundCue/SoundEffect/NPC/Skill", "SD/SoundCue/SoundEffect/Object/Effect", "SD/SoundCue/Ambience/Object", "SD/SoundCue/Ambience/OneShot"],
     "cues": "^SE_NPC_SK_(GetHit_ToughSpecialHit|Hit_Fatal_Groggy)|^SE_OJ_FX_FatalAttack_Enable|^SE_PC_SK_(Hit|GetHit|Smash|Repulse|Spark|FX|WS|PJ)_|^SE_PC_MT_(BodyFall|Rustle_Dmg|Arm_|Item_|Hit_Dead|Dash_Hurt|Teleport|TreasureChest|Lift|Prop|Scrape|StatRoom)|^SE_PC_(FX|WP)_|^SE_UI_(StartGame|RewardItem|AlertKill|DurabilityFull|Pulse_Recharge)|^SE_CIN_SlaveArm|^AMB_OJ_(PR_|DR_|TR_|Tram)|^AMB_PR_|^SE_PC_MT_(Lever_Active|HeavySafe_Open|BossGate_SlidingDoor_Open)|Stargazer_(Interaction|Restore|Open|Active)|^SE_PC_FS_(Snow|Sand|Grass|Ice|Glass|Water|Effluent|BloodPool)|^AMB_OS_TitleScreen_Steelheart_Heartbeat|^SE_PC_MT_Rustle_(Attack_Charge|Rolling|Dash)|^SE_UI_QuickSlotChange|^SE_PC_(Landing_|Dash_Water)",

@@ -1,0 +1,2879 @@
+{
+ "SE_NPC_SK_GetHit_ToughSpecialHit_Heartbeat_01_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_Dash_BloodWax_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_DeepSnow_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Dirt_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Effluent_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Effluent_WaterVolume_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Grass_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Ice_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Ropenet_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Sand_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Snow_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_Stone_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_Dash_WoodDeck_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Buff_PhysicalDamage_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Buff_ThunderSword_Loop_DLC_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Curse_Dead_01_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Curse_Dead_02_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Acid_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Broken_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Electric_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Fire_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Frozen_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Debuff_Pollution_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Interaction_HelpMate_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Interaction_HelpMate_Material_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Buff_A_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Buff_C_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_CatDust_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_ErgoDrop_Off_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Ergo_L_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Ergo_M_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Ergo_S_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Ergo_S_Pre_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Ergo_XL_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Buff_Body_Enhance_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Buff_Body_Enhance_Loop_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Elemental_Cancle_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Elemental_Resist_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Frozen_Cancel_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Injection_Frozen_Resist_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Leo_s_Bell_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Monard_Flying_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_Monard_Set_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_ProtectDropErgo_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Item_ReturnClock_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_OverDriveOn_Buff_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_FX_Spark_Arm_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Heartbeat_HL1_DLC_Cue": {
+  "class": "move",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Idle_HL1_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_HL1_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_M_HL1_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Sprint_Turn_HL1_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_B_HL2_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_F_HL2_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Heartbeat_HL2_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Idle_HL2_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Heavy_HL2_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Light_HL2_Cue": {
+  "class": "move",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_HL2_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_M_HL2_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_B_HL3_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_F_HL3_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Heartbeat_HL3_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Idle_HL3_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Heavy_HL3_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Light_HL3_Cue": {
+  "class": "get_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_HL3_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Attack_M_HL3_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Heartbeat_HL4_DLC_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Idle_HL4_DLC_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_Fail_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_Fail_L_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_Fail_Rustle_01_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_Fail_Rustle_02_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_Fail_Spark_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_GrappleGun_Fail_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Arm_SniperCannon_End_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_01_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_LL_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_L_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_MM_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_M_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_SS_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_SS_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_S_02_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Body_Motor_S_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Clap_hands_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_CoinFlip_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Door_Check_Cue": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Door_Check_Hotel_Cue": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Door_Check_Monastery_Cue": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Door_Unlock_Cue": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_B_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Down_Dead_F_Cue": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_Impact_Ground_L_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_Impact_Ground_M_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_Impact_Ground_S_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_L_02_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_L_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_M_Cue": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_Rustle_Cloth_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_Rustle_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Fall_Land_S_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_GiveErgo_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Give_Key_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Hand_Grab_R_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Handprint_L_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Handprint_R_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Hit_F_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_Injection_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Chain_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Fail_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Fail_Rustle_01_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Fail_Rustle_02_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Give_Bell_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Grinder_Start_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Grinder_TwoHand_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Nabal_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Item_Whistle_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Jump_01_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Kick_Ladder_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Heavy_Cue": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Die_Light_Cue": {
+  "class": "move",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Land_Spark_01_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Leather_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Leather_Movement_01_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_LegionArm_Change_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Lift_Call_Fail_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_01_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_02_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_02_Vari_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_03_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_04_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_05_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Motor_06_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Arm_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Jump_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Land_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Sit_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Soft_Cue": {
+  "class": "move",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Rustle_Stab_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_MT_SlaveArm_Break_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_SlaveArm_Break_Short_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Slide_Ladder_Metal_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Slide_Ladder_Wood_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Teleport_Start_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_MT_Touch_Box_Cue": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_AcidHammer_2H_B_FableArts_Acid_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_AcidHammer_2H_B_FableArts_End_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_AcidHammer_2H_B_FableArts_Hiss_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_AcidLuncher_Set_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Acid_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Aegis_Set_Off_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_Boomerang_Charge_Loop_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_Boomerang_Charge_Start_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_Boomerang_Loop_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_Boomerang_Start_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Aim_Rustle_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Buff_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Dash_Rustle_End_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Fable_Buff_L_DLC_Cue": {
+  "class": "charge",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Fable_Buff_M_DLC_Cue": {
+  "class": "charge",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Fable_Buff_S_DLC_Cue": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Moter_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Rustle_End_Back_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Rustle_End_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Rustle_JustTiming_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Charge_Rustle_Start_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Fable_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Fire_Rustle_L_DLC_Cue": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_Fire_Rustle_S_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_ChargeShotgun_JustTiming_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Arm_Fail_Spark_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_FableArts_Fire_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_FableArts_Shot_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_Fire_L_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_Fire_L_Loop_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_Fire_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Ballista_2H_Fire_S_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_01_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_02_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_03_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_04_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_05_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChainScythe_P_AssaultUp_06_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ChargeShotgun_Charge_Stop_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Charkram_1H_Spin_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ClockworkBlunt_2H_B_FableArts_Charge_03_Cue": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_CoilRod_1H_Enchant_01_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_CoilRod_1H_Enchant_02_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_CoilRod_1H_Spin_Charge_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_CoilRod_1H_Spin_Idle_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_CrystalSpear_1H_B_Enchant_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_B_Enchant_Electric_L_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_B_Enchant_Electric_S_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_End_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_Spin_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_Spin_Loop_Test_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricCutter_2H_Spin_Start_Test_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ElectricHammer_P_ElectricExplosion_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Electric_Grinder_Start_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FirePickaxe_2H_Explosion_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_B_FableArts_Fire_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_B_FableArts_Fire_Explosion_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_B_FableArts_Fire_Impact_DLC_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_B_FableArts_Fire_Whoosh_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_B_FableArts_Rustle_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Enchant_Loop_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Fire_NA_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Fire_NA_Loop_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Fire_NA_Start_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Fire_NA_Start_M_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Fire_Run_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_FableArts_Rustle_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_NA_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_NA_Loop_Broken_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_NA_Loop_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_NA_Start_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_NA_Start_M_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_Start_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FireRapier_2H_H_Fire_Start_Short_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Fire_Grinder_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Fire_M_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Fire_Start_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Flamberge_Set_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FlameDagger_1H_Enchant_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_FlameSword_2H_Enchant_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Frenzy_Start_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_CA_Just_Motor_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_CA_Just_Rustle_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Charge_Ergo_FA_BLD_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Charge_Ergo_FA_HND_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Charge_Ergo_FA_HND_Just_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Charge_FA_BLD_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Charge_FA_HND_Just_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Ground_Impact_CA_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Ground_Impact_CA_Just_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Ground_Impact_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Pull_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Pull_L_FA_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Pull_L_FA_HND_Charge_03_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Pull_M_DLC_Cue": {
+  "class": "charge",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Pull_S_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Rustle_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Rustle_S_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Shot_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Shot_M_CA_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Shot_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GakGung_1H_Shot_S_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_B_FableArts_Charge_01_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_B_FableArts_Charge_02_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_B_FableArts_Charge_03_Cue": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_CA1_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_CA2_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_CA_WS_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_FA_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_SA_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Glaive_P_SlaveArmRustle_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Grinder_Acid_01_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Grinder_Acid_02_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Grinder_Acid_03_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Grinder_Acid_04_Cue": {
+  "class": "skill",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Grinder_Boost_DLC_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_2H_B_FableArts_On_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_2H_B_FableArts_Rustle_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_2H_B_FableArts_Spark_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_2H_H_FableArts_Spin_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_2H_Spin_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_BLD_Explosion_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GuardBat_BLD_Explosion_L_DLC_Cue": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_FA_Buff_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_L_DLC_Cue": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_L_R_DLC_Cue": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_M_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_M_R_DLC_Cue": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_XL_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Fire_XL_R_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Booster_S_DLC_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Bullet_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Rustle_M_DLC_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Rustle_S_DLC_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Trigger_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Whoosh_S_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Winding_M_DLC_Cue": {
+  "class": "charge",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_GunBlade_2H_Handling_Winding_S_DLC_Cue": {
+  "class": "charge",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Hwando_1H_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_IronClaw_1H_Close_DLC_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_IronClaw_1H_FA_Buff_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_IronClaw_1H_Open_DLC_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_KKabiClub_2H_B_FableArts_Smash_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_NoseStaff_P_H_FableArts_Loop_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_FA_Start_01_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_FA_Start_02_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_FA_Start_03_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_Loop_01_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_Loop_02_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_Loop_03_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_PinWheel_2H_Spin_Loop_04_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Rapier_1H_B_FableArts_Rustle_01_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Rapier_1H_B_FableArts_Rustle_02_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_RockDrill_P_Charge_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_RockDrill_P_Motor_01_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_RockDrill_P_Motor_02_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_RockDrill_P_Spark_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_RoseSword_1H_FableArts_BLD_Thorny_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Saber_1H_B_FableArts_Rustle_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Saber_1H_H_FableArts_Rustle_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SevenSword_2H_Extend_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SevenSword_2H_Fold_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SevenSword_2H_H_FableArts_Slash_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SevenSword_2H__FableArts_Explosion_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SevenSword_2H__FableArts_Ground_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Shovel_2H_Expend_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_Shovel_2H_Spark_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SwordLance_2H_H_FableArts_Rustle_RE_01_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_SwordLance_2H_Spin_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_CA_Blast_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_CA_Charge_DLC_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_Dash_DLC_Cue": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_FableArts_BLD_Buff_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_FableArts_HND_Blast_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_FableArts_HND_Start_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_ThunderSword_1H_SA_Blast_DLC_Cue": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_FX_UmbrellaSword_1H_FableArts_Fold_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_Guts_Throw_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_GetHit_DashParry_Cue": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_GetHit_M_Parry_Cue": {
+  "class": "parry",
+  "weight": "mid",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_AcidLuncher_Explosion_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_AcidLuncher_Explosion_Loop_Lv1_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_AcidLuncher_Explosion_Loop_Lv2_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_AcidLuncher_Explosion_Loop_Lv3_Cue": {
+  "class": "skill",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Acid_Grenade_Cue": {
+  "class": "skill",
+  "weight": "mid",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Ballista_Explode_DLC_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_BigNnail_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Bottle_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Canister_Acid_Fall_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Canister_Elec_Fall_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Canister_Fire_Fall_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Fire_L_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Fire_Loop_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Acid_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Acid_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Acid_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Electricity_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Electricity_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Electricity_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Fire_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Fire_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_Enchant_Fire_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_FA_BLD_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_FA_BLD_Rapid_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_FA_HND_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_FA_HND_Just_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_L_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_M_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GakGung_1H_FlyBy_S_DLC_Cue": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GearFire_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Gear_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_GranadeElectric_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_PileBunker_Bullet_Activate_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_PileBunker_Bullet_Beep_Loop_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_SawTooth_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_SawTooth_Disappear_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_ShotPut_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_SniperCannon_Explo_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_SniperCannon_SparkBeep_Cue": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_SniperCanone_Bullet_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Thermite_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_Thermite_Electric_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_ThunderSword_CA_Hit_Explode_DLC_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_ThunderSword_CA_Hit_Loop_DLC_Cue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_ThunderSword_FableArts_HND_Disappear_DLC_Cue": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_ThunderSword_FableArts_HND_Loop_DLC_Cue": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "SE_PC_SK_PJ_TrapElectric_Bounce_Cue": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_Enchant_Acid_Loop_Cue": {
+  "class": "skill",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_Enchant_Electric_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_Enchant_Fire_Loop_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_AcidGreatSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Baton_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Bayonet_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_ChainScythe_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Charkram_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Cleaver_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_ClockSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_ClockworkBlunt_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_CoilRod_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_CrystalAxe_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_CrystalSpear_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Dagger_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_ElectricHammer_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_FirePickaxe_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_FlameSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Glaive_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_GreatAxe_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_GreatSaw_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_GreatSpear_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Halberd_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Hwando_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_KkabiClub_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Kukri_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_NoseStaff_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Rapier_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_RockDrill_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Saber_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_ScissorSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_SevenSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Shamshir_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_SwordLance_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_TransformGreatSword_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "SE_PC_WP_WeaponBreak_Parts_Trident_Cue": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ }
+}
